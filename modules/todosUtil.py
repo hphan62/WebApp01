@@ -1,4 +1,5 @@
 EOL = '\n'
+
 FILEPATH = 'data/todos.txt'
 
 
