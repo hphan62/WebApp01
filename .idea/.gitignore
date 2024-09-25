@@ -1,0 +1,5 @@
+# Default ignored fivles
+/shelf/
+/workspace.xml
+venv
+.idea
